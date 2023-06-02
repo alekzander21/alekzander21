@@ -26,7 +26,8 @@ Utilicé Google Fit API para obtener datos de actividad física del usuario.
 <h2>Contacto</h2>
 Si estás interesado en colaborar en un proyecto, contratar mis servicios o simplemente quieres obtener más información, no dudes en contactarme.
 
-Correo electrónico: fabrizioquispepersonal@gmail.com
-LinkedIn: https://www.linkedin.com/in/fabrizio-alekzander-quispe-rueda-719512271
-Sitio web: https://fabrizioquispe.com
+<li>Correo electrónico: fabrizioquispepersonal@gmail.com</li>
+<li>LinkedIn: https://www.linkedin.com/in/fabrizio-alekzander-quispe-rueda-719512271</li>
+<li>Sitio web: https://fabrizioquispe.com</li>
+<li>Numero de contacto: +51 963 035 217</li>
 ¡Espero tener la oportunidad de trabajar contigo y llevar tus ideas a la realidad en forma de una aplicación Android increíble!
